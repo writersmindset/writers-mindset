@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to A Writer's Mindset
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Here's I'll write out my thoughts on having a mindset to become a creative writer.
