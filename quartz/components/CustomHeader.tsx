@@ -3,7 +3,7 @@ import { QuartzComponentProps } from "./types";
 const CustomHeader = (props: QuartzComponentProps) => {
   return (
     <header>
-      <h1>Welcome To A Writer's Mindset ✍🏻🧠</h1> {/* Replace with your desired title/logo */}
+      <h1>Mindset For Creative Writers ✍🏻🧠</h1> {/* Replace with your desired title/logo */}
     </header>
   );
 };
