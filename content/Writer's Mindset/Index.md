@@ -4,7 +4,8 @@ longform:
   title: ew
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - Introduction
   ignoredFiles: []
 ---
 Hi
